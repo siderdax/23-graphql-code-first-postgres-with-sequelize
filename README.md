@@ -9,7 +9,7 @@
 
 This sample shows how to combine sequelize model with nestjs's graphql model.
 
-This repository is originated in https://github.com/nestjs/nest/tree/master/sample/23-graphql-code-first
+Source codes of this repository is originated in https://github.com/nestjs/nest/tree/master/sample/23-graphql-code-first
 
 ## License
 
